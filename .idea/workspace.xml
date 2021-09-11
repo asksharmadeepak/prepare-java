@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2acbe2ac-800f-478b-8c1a-986d82e20bd1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/JavaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/data_structure/sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/desgin_pattern/factory/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/desgin_pattern/factory/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/desgin_pattern/factory/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/desgin_pattern/factory/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/desgin_pattern/factory/ShapeLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/desgin_pattern/factory/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/challanges/ArrayProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/challanges/StudentScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/functional_interface/bi_functional/BiConsumerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/functional_interface/bi_functional/BiFunctionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/functional_interface/bi_functional/BiPredicateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/functional_interface/singular_functional/ConsumerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/functional_interface/singular_functional/PredicateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/functional_interface/singular_functional/SupplierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/lambda/CalculatorApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/lambda/books/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/lambda/books/BookDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/lambda/books/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/optional/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/optional/OptionalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/exception_handling/CheckedExceptionHandlerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/exception_handling/ExceptionHandlingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/filter_foreach/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/filter_foreach/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/filter_foreach/EmployeeTaxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/filter_foreach/ForEachAndFilterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/filter_map_reduce/FilterMapReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/map_flatmap/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/map_flatmap/EkartDataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/map_flatmap/MapAndFlatMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/parallale_stream/ParallaleStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/sorting_stream/SortListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/sorting_stream/SortMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/puzzle/ConsecutiveNumberFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/prepare/puzzle/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/prepare/puzzle/Employee.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="1ff813d2-7748-44e3-895c-671985f6c5b5" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1wqL6hkdPCHDq6xa5OcYb3weq9e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.prepare.java8.functional_interface.singular_functional" />
+      <recent name="com.prepare.desgin_pattern.factory" />
+      <recent name="com.prepare.java8.optional" />
+      <recent name="com.prepare.java8.fi" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.prepare.java8.streams" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ParallaleStreamExample">
+    <configuration name="ArrayProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prepare.java8.challanges.ArrayProblem" />
+      <module name="prepare-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prepare.java8.challanges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilterMapReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prepare.java8.streams.filter_map_reduce.FilterMapReduce" />
+      <module name="prepare-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prepare.java8.streams.filter_map_reduce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParallaleStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prepare.java8.streams.parallale_stream.ParallaleStreamExample" />
+      <module name="prepare-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prepare.java8.streams.parallale_stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prepare.java8.streams.sorting_stream.SortListDemo" />
+      <module name="prepare-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prepare.java8.streams.sorting_stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prepare.java8.streams.sorting_stream.SortMapDemo" />
+      <module name="prepare-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prepare.java8.streams.sorting_stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ParallaleStreamExample" />
+        <item itemvalue="Application.FilterMapReduce" />
+        <item itemvalue="Application.SortMapDemo" />
+        <item itemvalue="Application.SortListDemo" />
+        <item itemvalue="Application.ArrayProblem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2acbe2ac-800f-478b-8c1a-986d82e20bd1" name="Default Changelist" comment="" />
+      <created>1629180998664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629180998664</updated>
+      <workItem from="1629180999693" duration="249000" />
+      <workItem from="1629182875777" duration="474000" />
+      <workItem from="1629297266209" duration="18193000" />
+      <workItem from="1630406695634" duration="16476000" />
+      <workItem from="1630657002715" duration="2741000" />
+      <workItem from="1630847710328" duration="21599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1630926773377">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="533" y="135" key="#com.intellij.ide.util.MemberChooser/0.23.1440.797@0.23.1440.797" timestamp="1630926773377" />
+    <state x="458" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1629996938307">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="458" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.797@0.23.1440.797" timestamp="1629996938307" />
+    <state x="458" y="175" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1630564995175">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="458" y="175" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.23.1440.797@0.23.1440.797" timestamp="1630564995175" />
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1631172975058">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1631172975058" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center" timestamp="1631172975057">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1631172975057" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left" timestamp="1631172975056">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1631172975056" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right" timestamp="1631172975057">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1631172975057" />
+    <state x="421" y="176" width="598" height="490" key="find.popup" timestamp="1630924335632">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="421" y="176" width="598" height="490" key="find.popup/0.23.1440.797@0.23.1440.797" timestamp="1630924335632" />
+    <state x="114" y="23" key="new project wizard" timestamp="1629380682068">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="114" y="23" key="new project wizard/0.23.1440.797@0.23.1440.797" timestamp="1629380682068" />
+    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1631036456030">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1631036456030" />
+  </component>
+</project>
