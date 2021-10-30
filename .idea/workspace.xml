@@ -2,46 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2acbe2ac-800f-478b-8c1a-986d82e20bd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/JavaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/data_structure/sorting/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/desgin_pattern/factory/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/desgin_pattern/factory/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/desgin_pattern/factory/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/desgin_pattern/factory/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/desgin_pattern/factory/ShapeLauncher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/desgin_pattern/factory/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/challanges/ArrayProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/challanges/StudentScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/functional_interface/bi_functional/BiConsumerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/functional_interface/bi_functional/BiFunctionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/functional_interface/bi_functional/BiPredicateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/functional_interface/singular_functional/ConsumerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/functional_interface/singular_functional/PredicateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/functional_interface/singular_functional/SupplierDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/lambda/CalculatorApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/lambda/books/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/lambda/books/BookDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/lambda/books/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/optional/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/optional/OptionalDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/exception_handling/CheckedExceptionHandlerConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/exception_handling/ExceptionHandlingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/filter_foreach/DataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/filter_foreach/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/filter_foreach/EmployeeTaxService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/filter_foreach/ForEachAndFilterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/filter_map_reduce/FilterMapReduce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/map_flatmap/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/map_flatmap/EkartDataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/map_flatmap/MapAndFlatMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/parallale_stream/ParallaleStreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/sorting_stream/SortListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/sorting_stream/SortMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prepare/puzzle/ConsecutiveNumberFind.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/prepare/puzzle/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/prepare/puzzle/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/desgin_pattern/singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/desgin_pattern/singleton/SingletonTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/final450/GFG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/final450/array/ReverseTheArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/final450/matrix/SpiralTraversalOnMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/challanges/AppleColorProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/challanges/DuplicateInInputString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/challanges/ListWithHashMapPrintProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/challanges/MaxSalaryOfEmployees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/challanges/PrintEvenOddUsingTwoThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/challanges/PrintEvenOddUsingTwoThreadJava8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/challanges/ProductsFilterPriceOnlyName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/challanges/SchoolSectionHighestMaleAndFemale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/challanges/TheChocolateRooms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/static_default_methods/DefaultMethodExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/java8/static_default_methods/StaticInterfaceMethodExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/tdd/linkedlist/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/tdd/linkedlist/LinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prepare/tdd/roman_number/DigitToRomanNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare-java/com/prepare/array/DuplicateInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare-java/com/prepare/array/DuplicateInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare-java/com/prepare/java8/streams/parallale_stream/ParallaleStreamExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare-java/com/prepare/java8/streams/parallale_stream/ParallaleStreamExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prepare-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/prepare-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/prepare/array/DuplicateInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/prepare/array/DuplicateInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/prepare/java8/streams/parallale_stream/ParallaleStreamExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/prepare/java8/streams/parallale_stream/ParallaleStreamExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +57,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -80,6 +69,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.prepare.tdd.linkedlist" />
       <recent name="com.prepare.java8.functional_interface.singular_functional" />
       <recent name="com.prepare.desgin_pattern.factory" />
       <recent name="com.prepare.java8.optional" />
@@ -89,9 +79,9 @@
       <recent name="com.prepare.java8.streams" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ParallaleStreamExample">
-    <configuration name="ArrayProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prepare.java8.challanges.ArrayProblem" />
+  <component name="RunManager" selected="Application.ListWithHashMapPrintProblem">
+    <configuration name="ListWithHashMapPrintProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prepare.java8.challanges.ListWithHashMapPrintProblem" />
       <module name="prepare-java" />
       <extension name="coverage">
         <pattern>
@@ -103,51 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilterMapReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prepare.java8.streams.filter_map_reduce.FilterMapReduce" />
+    <configuration name="SingletonTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prepare.desgin_pattern.singleton.SingletonTester" />
       <module name="prepare-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prepare.java8.streams.filter_map_reduce.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ParallaleStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prepare.java8.streams.parallale_stream.ParallaleStreamExample" />
-      <module name="prepare-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.prepare.java8.streams.parallale_stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prepare.java8.streams.sorting_stream.SortListDemo" />
-      <module name="prepare-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.prepare.java8.streams.sorting_stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prepare.java8.streams.sorting_stream.SortMapDemo" />
-      <module name="prepare-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.prepare.java8.streams.sorting_stream.*" />
+          <option name="PATTERN" value="com.prepare.desgin_pattern.singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,13 +117,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="prepare-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prepare.tdd.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.prepare.tdd.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="com.prepare.tdd.linkedlist.LinkedListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListTest.shouldHaveZeroSizeForEmptyList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="prepare-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prepare.tdd.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.prepare.tdd.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="com.prepare.tdd.linkedlist.LinkedListTest" />
+      <option name="METHOD_NAME" value="shouldHaveZeroSizeForEmptyList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListTest.testSize_oneElement_sizeIsOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="prepare-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prepare.tdd.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.prepare.tdd.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="com.prepare.tdd.linkedlist.LinkedListTest" />
+      <option name="METHOD_NAME" value="testSize_oneElement_sizeIsOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ParallaleStreamExample" />
-        <item itemvalue="Application.FilterMapReduce" />
-        <item itemvalue="Application.SortMapDemo" />
-        <item itemvalue="Application.SortListDemo" />
-        <item itemvalue="Application.ArrayProblem" />
+        <item itemvalue="Application.ListWithHashMapPrintProblem" />
+        <item itemvalue="JUnit.LinkedListTest" />
+        <item itemvalue="JUnit.LinkedListTest.testSize_oneElement_sizeIsOne" />
+        <item itemvalue="JUnit.LinkedListTest.shouldHaveZeroSizeForEmptyList" />
+        <item itemvalue="Application.SingletonTester" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +187,18 @@
       <workItem from="1629297266209" duration="18193000" />
       <workItem from="1630406695634" duration="16476000" />
       <workItem from="1630657002715" duration="2741000" />
-      <workItem from="1630847710328" duration="21599000" />
+      <workItem from="1630847710328" duration="22600000" />
+      <workItem from="1631521557671" duration="4801000" />
+      <workItem from="1631613989667" duration="821000" />
+      <workItem from="1631695597464" duration="5849000" />
+      <workItem from="1632206456810" duration="9107000" />
+      <workItem from="1632472168256" duration="478000" />
+      <workItem from="1632589471070" duration="4248000" />
+      <workItem from="1633087879915" duration="1976000" />
+      <workItem from="1633940150368" duration="1675000" />
+      <workItem from="1635072662125" duration="5759000" />
+      <workItem from="1635328366906" duration="4254000" />
+      <workItem from="1635615745410" duration="642000" />
     </task>
     <servers />
   </component>
@@ -197,10 +206,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1630926773377">
+    <state x="533" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1635328567026">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="533" y="135" key="#com.intellij.ide.util.MemberChooser/0.23.1440.797@0.23.1440.797" timestamp="1630926773377" />
+    <state x="533" y="135" key="#com.intellij.ide.util.MemberChooser/0.23.1440.797@0.23.1440.797" timestamp="1635328567026" />
+    <state x="501" y="194" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1635074411328">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="501" y="194" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.797@0.23.1440.797" timestamp="1635074411328" />
     <state x="458" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1629996938307">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
@@ -209,33 +222,68 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="458" y="175" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.23.1440.797@0.23.1440.797" timestamp="1630564995175" />
-    <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1631172975058">
+    <state x="483" y="132" key="#xdebugger.evaluate" timestamp="1632052481165">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1631172975058" />
-    <state width="1398" height="231" key="GridCell.Tab.0.center" timestamp="1631172975057">
+    <state x="483" y="132" key="#xdebugger.evaluate/0.23.1440.797@0.23.1440.797" timestamp="1632052481165" />
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1635616377946">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1631172975057" />
-    <state width="1398" height="231" key="GridCell.Tab.0.left" timestamp="1631172975056">
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1635616377946" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center" timestamp="1635616377945">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1631172975056" />
-    <state width="1398" height="231" key="GridCell.Tab.0.right" timestamp="1631172975057">
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1635616377945" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left" timestamp="1635616377944">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1631172975057" />
-    <state x="421" y="176" width="598" height="490" key="find.popup" timestamp="1630924335632">
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1635616377944" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right" timestamp="1635616377945">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="421" y="176" width="598" height="490" key="find.popup/0.23.1440.797@0.23.1440.797" timestamp="1630924335632" />
-    <state x="114" y="23" key="new project wizard" timestamp="1629380682068">
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1635616377945" />
+    <state width="1398" height="254" key="GridCell.Tab.1.bottom" timestamp="1632135448385">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="114" y="23" key="new project wizard/0.23.1440.797@0.23.1440.797" timestamp="1629380682068" />
-    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1631036456030">
+    <state width="1398" height="254" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1632135448385" />
+    <state width="1398" height="254" key="GridCell.Tab.1.center" timestamp="1632135448385">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1631036456030" />
+    <state width="1398" height="254" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1632135448385" />
+    <state width="1398" height="254" key="GridCell.Tab.1.left" timestamp="1632135448384">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1632135448384" />
+    <state width="1398" height="254" key="GridCell.Tab.1.right" timestamp="1632135448385">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1632135448385" />
+    <state x="432" y="321" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1635074389537">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="432" y="321" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.797@0.23.1440.797" timestamp="1635074389537" />
+    <state x="421" y="176" width="598" height="490" key="find.popup" timestamp="1631553427105">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="421" y="176" width="598" height="490" key="find.popup/0.23.1440.797@0.23.1440.797" timestamp="1631553427105" />
+    <state x="114" y="23" key="new project wizard" timestamp="1631449873490">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="114" y="23" key="new project wizard/0.23.1440.797@0.23.1440.797" timestamp="1631449873490" />
+    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1632307984633">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1632307984633" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/prepare/final450/GFG.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

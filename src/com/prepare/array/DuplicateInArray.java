@@ -10,12 +10,11 @@ public class DuplicateInArray {
 		Set set=new HashSet();
 		
 		for (int i = 0; i < arrInput.length; i++) {
-			boolean  sucess= set.add(arrInput[i]);
-			if(sucess == false){
+			boolean success= set.add(arrInput[i]);
+			if(success == false){
 				System.out.println(arrInput[i]);
 				break;
 			}
-			
 		}	
 	}
 }

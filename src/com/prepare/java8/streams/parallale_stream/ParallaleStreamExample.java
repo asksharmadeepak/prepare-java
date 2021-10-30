@@ -1,5 +1,6 @@
 package com.prepare.java8.streams.parallale_stream;
 
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.stream.IntStream;
 
 public class ParallaleStreamExample {
@@ -20,5 +21,8 @@ public class ParallaleStreamExample {
         IntStream.range(1,10).parallel().forEach(System.out::println);
         end = System.currentTimeMillis();
         System.out.println("Plain stream tool time: "+(end-start));
+
+        ConcurrentHashMap concurrentHashMap = new ConcurrentHashMap();
+
     }
 }
